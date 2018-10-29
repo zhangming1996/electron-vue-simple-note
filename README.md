@@ -1,4 +1,4 @@
-# my-electron-note-yarn
+# electron-vue-simple-note
 
 > An electron-vue project
 
